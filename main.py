@@ -3,7 +3,7 @@ from checkers.constants import WIDTH,HEIGHT,SQUARE_SIZE,WHITE,RED
 import time
 from checkers.board import Board
 from checkers.game import Game
-from minimax.algorithm import minimax,minimax2
+from MiniMax.algorithm import minimax,minimax2
 
 FPS = 60.0
 
